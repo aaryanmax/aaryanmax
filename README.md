@@ -1,6 +1,6 @@
 # 🙏 Namaste, I'm Aaryan :)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1900&pause=210&color=F7F7F7&multiline=true&repeat=true&width=650&lines=%F0%9F%92%BB+A+Passionate+Computer+Science+Undergrad;%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93+B.Tech+in+AIML+at+USAR+GGSIPU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1900&pause=210&color=F7F7F7&multiline=true&repeat=false&width=650&lines=%F0%9F%92%BB+A+Passionate+Computer+Science+Undergrad;%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93+B.Tech+in+AIML+at+USAR+GGSIPU)](https://git.io/typing-svg)
 <br><br>
 
 ## 🛠️ Languages & Tools I Use:
@@ -25,6 +25,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/instagram)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lonercoder)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryanmax)
+<br>
 <hr>
 
 #### **Stack :**&nbsp;
@@ -32,6 +33,11 @@
 [![C](https://img.shields.io/badge/-C-00599C?style=popout&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))&nbsp;
 [![Git](https://img.shields.io/badge/-Git-F05032?style=popout&logo=git&logoColor=white)](https://git-scm.com)&nbsp;
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=popout&logo=openai&logoColor=white)](https://chat.openai.com)
+<br><br><hr>
+
+###### *Ps-This is gonna take a while to get moving ;_;
+![snake gif](https://github.com/aaryanmax/aaryanmax/blob/output/github-snake-dark.svg)
+
 
 
 
