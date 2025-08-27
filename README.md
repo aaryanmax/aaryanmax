@@ -39,6 +39,9 @@
 ![snake gif](https://github.com/aaryanmax/aaryanmax/blob/output/github-snake-dark.svg)
 
 
+[![roadmap.sh](https://roadmap.sh/card/tall/67e51043616abc6b0b7a85c4?variant=dark)](https://roadmap.sh)
+
+
 
 
 
