@@ -36,7 +36,7 @@
 <br><br><hr>
 
 ###### *Ps-This is gonna take a while to get moving ;_;
-![snake gif](https://github.com/aaryanmax/aaryanmax/blob/output/github-snake-dark.svg)
+![snake gif]<img src="https://raw.githubusercontent.com/aaryanmax/aaryanmax/output/github-snake.svg" />
 
 
 [![roadmap.sh](https://roadmap.sh/card/tall/67e51043616abc6b0b7a85c4?variant=dark)](https://roadmap.sh)
