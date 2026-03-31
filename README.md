@@ -36,7 +36,14 @@
 <br><br><hr>
 
 ###### *Ps-This is gonna take a while to get moving ;_;
-![snake gif](https://raw.githubusercontent.com/aaryanmax/aaryanmax/output/github-snake.svg)
+<!-- GitHub Snake Game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryanmax/aaryanmax/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryanmax/aaryanmax/output/github-snake.svg" />
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/aaryanmax/aaryanmax/output/github-snake.svg" />
+</picture>
+
+![Snake GIF](https://raw.githubusercontent.com/aaryanmax/aaryanmax/output/ocean.gif)
 
 
 
